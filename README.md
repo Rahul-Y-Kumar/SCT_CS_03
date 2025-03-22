@@ -18,16 +18,38 @@ This is a Python-based ***Password Strength Checker*** that evaluates the streng
 ### Prerequisites
 - Python 3.x
 
-### Installation
+### 🛠️ Installation
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Rahul-Y-Kumar/SCT_CS_03.git
-   cd Password_Strength_tester
+   git clone https://github.com/Rahul-Y-Kumar/SCT_CS_03
    ```
 2. **Run the script:**
    ```bash
    password_strength_tester.py
    ```
+
+## Example Output
+```
+==================================================
+** Welcome to the 🔐 Password Strength Checker! **
+==================================================
+
+Please enter a password to check its strength.
+📝 Enter Password: @1234
+         
+🔑 Password Strength Checker 🔑           
+
+--------------------------------------------------
+🔹 Password Entered: @1234
+🔹 Strength: ❗ Weak
+🔹 Criteria:
+  ✔ Length (8+ characters): ❌
+  ✔ Uppercase Letter: ❌
+  ✔ Lowercase Letter: ❌
+  ✔ Number: ✅
+  ✔ Special Character: ✅
+--------------------------------------------------
+```
 
 
 
