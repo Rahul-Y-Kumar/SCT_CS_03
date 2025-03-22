@@ -22,7 +22,7 @@ This is a Python-based ***Password Strength Checker*** that evaluates the streng
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/Rahul-Y-Kumar/SCT_CS_03.git
-   cd Password Strength Checker
+   cd Password_Strength_tester
    ```
 2. **Run the script:**
    ```bash
